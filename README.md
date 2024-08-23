@@ -1,5 +1,5 @@
 GreenCart android app is an implementation of a web application https://green-cart.vercel.app/dashboard/home.html
-This app was intended for a hackathon and was made within a span of 2 days , this i used android studio's webview feature for efficient implementation of the web app.
+This app was intended for a hackathon and was made within a span of 2 days , thus i used android studio's webview feature for efficient implementation of the web app.
 
 ![gc1](https://github.com/user-attachments/assets/6b1503ab-3cb1-469c-a0ae-e52132693cee)
 ![signup](https://github.com/user-attachments/assets/f9b07431-7bb5-4cdf-89a5-24ff6579dcec)
